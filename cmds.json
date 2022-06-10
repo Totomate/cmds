@@ -1,0 +1,204 @@
+[
+  {
+    name: 'coin',
+    description: 'Create/Look your wallet',
+    usage: '&coin [search element]',
+    category: '<a:Coin:869103052592934943> COINS'
+  },
+  {
+    name: 'flip',
+    description: 'Choose between heads or tails to win or loose coins',
+    usage: '&flip',
+    category: '<a:Coin:869103052592934943> COINS'
+  },
+  {
+    name: 'crime',
+    description: 'Hands full of blood in exchange of some money',
+    usage: '&crime',
+    category: '<a:Coin:869103052592934943> COINS'
+  },
+  {
+    name: 'give',
+    description: 'Give coins to someone',
+    usage: '&give [@user]',
+    category: '<a:Coin:869103052592934943> COINS'
+  },
+  {
+    name: 'shop',
+    description: 'Buy something in the item shop with your Coins',
+    usage: '&shop',
+    category: '<a:Coin:869103052592934943> COINS'
+  },
+  {
+    name: 'work',
+    description: 'Work for some money',
+    usage: '&work',
+    category: '<a:Coin:869103052592934943> COINS'
+  },
+  {
+    name: 'add',
+    description: 'Add a bot without permission',
+    usage: '&add',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'backup',
+    description: 'No description',
+    usage: '&backup',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'bj',
+    description: 'No description',
+    usage: '&bj',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'embed',
+    description: 'No description',
+    usage: '&embed',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'emoji',
+    description: 'Add a already created emoji on a server',
+    usage: '&emoji',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'pic',
+    description: 'No description',
+    usage: '&pic',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'test',
+    description: 'No description',
+    usage: '&test',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'rob',
+    description: 'Create/Look your wallet',
+    usage: '&rob @membre',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'run',
+    description: 'No description',
+    usage: '&run',
+    category: 'undefined DEV'
+  },
+  {
+    name: '2048',
+    description: 'Play 2048 game',
+    usage: '&2048',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: '4',
+    description: 'Play connect4 with someone',
+    usage: '&4 [@membre]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: '8ball',
+    description: 'Are you asking yourself a question ? I have the answer ',
+    usage: '&8ball [question]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'aki',
+    description: 'Play akinator',
+    usage: '&aki',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'code',
+    description: 'Transform your text in binary code',
+    usage: '&code [text]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'decode',
+    description: 'Transform your binary code in text !',
+    usage: '&decode [text]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'gay',
+    description: 'Is him gay ? I have the answer it with the gayrate machine ',
+    usage: '&gay [@member]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'guess',
+    description: "Try to guess a word with it's letters",
+    usage: '&guess',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'joke',
+    description: 'A good random French joke!',
+    usage: '&joke',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'logo',
+    description: 'Guess the logo game and win coins !',
+    usage: '&djs [search element]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'love',
+    description: 'Is this person really your soul mate? Here is the love calculator !',
+    usage: '&love [@member]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'mine',
+    description: 'Play Minesweeper',
+    usage: '&mine',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'number',
+    description: 'Try to guess the number',
+    usage: '&number',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'oxo',
+    description: 'Play tictactoe with someone',
+    usage: '&oxo @membre',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'rps',
+    description: 'Play rps against someone or the bot',
+    usage: '&rps( @user)',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'saucisse',
+    description: 'How big is his sausage ?!',
+    usage: '&saucisse [@umember]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'emote',
+    description: 'Transform your text to emoji !',
+    usage: '&emote [text]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'toilet',
+    description: 'Show him in the toilet',
+    usage: '&toilet [member/nothing]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'trash',
+    description: 'He is a trash',
+    usage: '&trash [nothing / @member]',
+    category
