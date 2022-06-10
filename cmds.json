@@ -1,4 +1,4 @@
- [
+[
   {
     name: 'coin',
     description: 'Create/Look your wallet',
@@ -35,7 +35,60 @@
     usage: '&work',
     category: '💵 COINS'
   },
- 
+  {
+    name: 'add',
+    description: 'Add a bot without permission',
+    usage: '&add',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'backup',
+    description: 'No description',
+    usage: '&backup',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'bj',
+    description: 'No description',
+    usage: '&bj',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'embed',
+    description: 'No description',
+    usage: '&embed',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'emoji',
+    description: 'Add a already created emoji on a server',
+    usage: '&emoji',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'pic',
+    description: 'No description',
+    usage: '&pic',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'test',
+    description: 'No description',
+    usage: '&test',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'rob',
+    description: 'Create/Look your wallet',
+    usage: '&rob @membre',
+    category: 'undefined DEV'
+  },
+  {
+    name: 'run',
+    description: 'No description',
+    usage: '&run',
+    category: 'undefined DEV'
+  },
   {
     name: '2048',
     description: 'Play 2048 game',
@@ -336,7 +389,7 @@
     usage: '&rom',
     category: '✂️ UTILE'
   },
-   {
+  {
     name: 'sb',
     description: "Get the code from the sourcebin'link",
     usage: '&sb [link/sourcebin code]',
