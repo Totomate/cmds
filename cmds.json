@@ -1,94 +1,41 @@
-[
+ [
   {
     name: 'coin',
     description: 'Create/Look your wallet',
     usage: '&coin [search element]',
-    category: '<a:Coin:869103052592934943> COINS'
+    category: '💵 COINS'
   },
   {
     name: 'flip',
     description: 'Choose between heads or tails to win or loose coins',
     usage: '&flip',
-    category: '<a:Coin:869103052592934943> COINS'
+    category: '💵 COINS'
   },
   {
     name: 'crime',
     description: 'Hands full of blood in exchange of some money',
     usage: '&crime',
-    category: '<a:Coin:869103052592934943> COINS'
+    category: '💵 COINS'
   },
   {
     name: 'give',
     description: 'Give coins to someone',
     usage: '&give [@user]',
-    category: '<a:Coin:869103052592934943> COINS'
+    category: '💵 COINS'
   },
   {
     name: 'shop',
     description: 'Buy something in the item shop with your Coins',
     usage: '&shop',
-    category: '<a:Coin:869103052592934943> COINS'
+    category: '💵 COINS'
   },
   {
     name: 'work',
     description: 'Work for some money',
     usage: '&work',
-    category: '<a:Coin:869103052592934943> COINS'
+    category: '💵 COINS'
   },
-  {
-    name: 'add',
-    description: 'Add a bot without permission',
-    usage: '&add',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'backup',
-    description: 'No description',
-    usage: '&backup',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'bj',
-    description: 'No description',
-    usage: '&bj',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'embed',
-    description: 'No description',
-    usage: '&embed',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'emoji',
-    description: 'Add a already created emoji on a server',
-    usage: '&emoji',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'pic',
-    description: 'No description',
-    usage: '&pic',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'test',
-    description: 'No description',
-    usage: '&test',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'rob',
-    description: 'Create/Look your wallet',
-    usage: '&rob @membre',
-    category: 'undefined DEV'
-  },
-  {
-    name: 'run',
-    description: 'No description',
-    usage: '&run',
-    category: 'undefined DEV'
-  },
+ 
   {
     name: '2048',
     description: 'Play 2048 game',
@@ -201,4 +148,204 @@
     name: 'trash',
     description: 'He is a trash',
     usage: '&trash [nothing / @member]',
-    category
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'wanted',
+    description: 'No description',
+    usage: '&wanted [member/nothing]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'wasted',
+    description: 'No description',
+    usage: '&wasted [member/nothing]',
+    category: '🌞 FUNNY'
+  },
+  {
+    name: 'bot',
+    description: "Bot's informations !",
+    usage: '&bot',
+    category: '💡 INFO'
+  },
+  {
+    name: 'github',
+    description: 'Search informations on a github account',
+    usage: '&github [username]',
+    category: '💡 INFO'
+  },
+  {
+    name: 'help',
+    description: 'Show all the commands',
+    usage: "&help (command's name)",
+    category: '💡 INFO'
+  },
+  {
+    name: 'ping',
+    description: 'No description',
+    usage: '&ping',
+    category: '💡 INFO'
+  },
+  {
+    name: 'server-info',
+    description: 'Get information about the guild',
+    usage: '&server-info',
+    category: '💡 INFO'
+  },
+  {
+    name: 'support',
+    description: 'No description',
+    usage: '&support',
+    category: '💡 INFO'
+  },
+  {
+    name: 'tos',
+    description: 'No description',
+    usage: '&tos',
+    category: '💡 INFO'
+  },
+  {
+    name: 'ui',
+    description: "Informations sur n'importe qui que tu veux (Externe au server)",
+    usage: '&ui [nothing/@member/id/name]',
+    category: '💡 INFO'
+  },
+  {
+    name: 'addemoji',
+    description: 'Add an emoji on the server',
+    usage: '&addemoji [link] [name] ',
+    category: '🛠 STAFF'
+  },
+  {
+    name: 'mod',
+    description: 'Moderate a member',
+    usage: '&mod [@user] (reason)',
+    category: '🛠 STAFF'
+  },
+  {
+    name: 'setlang',
+    description: "Choose the bot's language",
+    usage: '&setlang',
+    category: '🛠 STAFF'
+  },
+  {
+    name: 'setup',
+    description: 'Setup your server with tickets, anti-raid, birthdays setups',
+    usage: '&setup',
+    category: '🛠 STAFF'
+  },
+  {
+    name: 'blacklist',
+    description: 'Add someone on the blacklist',
+    usage: '&blacklist [@user/id] (reason) ',
+    category: '⚙ SUPPORT'
+  },
+  {
+    name: 'getinvite',
+    description: 'No description',
+    usage: '&serverlist',
+    category: '⚙ SUPPORT'
+  },
+  {
+    name: 'serverlist',
+    description: 'No description',
+    usage: '&serverlist',
+    category: '⚙ SUPPORT'
+  },
+  {
+    name: 'unblacklist',
+    description: 'Remove someone of the blacklist',
+    usage: '&unblacklist [@member/id]',
+    category: '⚙ SUPPORT'
+  },
+  {
+    name: 'whitelist',
+    description: 'Add someone on the whitelist',
+    usage: '&whitelist [@member/id]',
+    category: '⚙ SUPPORT'
+  },
+  {
+    name: 'prems',
+    description: 'Get the first messsage from the channel !',
+    usage: '&prems [#channel]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'big',
+    description: 'Enlarge an emoji !',
+    usage: '&big [:emoji: / (:tada:)]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'djs',
+    description: 'Search the discord.js docs for something!',
+    usage: '&djs [search element]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'emojilist',
+    description: 'Get a list of all emojis on the server !',
+    usage: '&emojilist',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'genpass',
+    description: 'Créer un mot de passe compliqué unique',
+    usage: '&genpass',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'hex',
+    description: 'Information on a color!',
+    usage: '&hex [#color code/@member/nothing]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'insta',
+    description: 'No description',
+    usage: '&insta [nickname to search]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'morse',
+    description: 'Transform your text in morse',
+    usage: '&morse [text]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'npm',
+    description: 'NPM package informations',
+    usage: '&npm [text]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'nudify',
+    description: 'Check the Nsfw percentage of a picture or an user avatar ',
+    usage: '&nudify [link/@user] ',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'pp',
+    description: 'Get the profile picture of the person mentioned!',
+    usage: '&pp [@user/nothing]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'rom',
+    description: 'Transform your numbers into Roman numeral',
+    usage: '&rom',
+    category: '✂️ UTILE'
+  },
+   {
+    name: 'sb',
+    description: "Get the code from the sourcebin'link",
+    usage: '&sb [link/sourcebin code]',
+    category: '✂️ UTILE'
+  },
+  {
+    name: 'web',
+    description: 'See what a link looks like',
+    usage: '&web [link]',
+    category: '✂️ UTILE'
+  }
+]
